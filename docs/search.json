@@ -4,7 +4,7 @@
     "href": "blog.html",
     "title": "My Blog",
     "section": "",
-    "text": "New post\n\n\n\nmicro\n\n\nstats\n\n\ncode\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\ngizn\n\n\nDec 18, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "New post\n\n\n\nmicro\n\n\nstats\n\n\ncode\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\ngizn\n\n\nDec 18, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA 1963 radioautograph of an E. coli chromosome\n\n\n\nmicro\n\n\nstats\n\n\ncode\n\n\n\n\n\n\n\ngizn\n\n\nOct 9, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -21,6 +21,13 @@
     "text": "From WHO:\n\nThe World Health Organization (WHO) today published a new report on tuberculosis revealing that approximately 8.2 million people were newly diagnosed with TB in 2023 – the highest number recorded since WHO began global TB monitoring in 1995. This represents a notable increase from 7.5 million reported in 2022, placing TB again as the leading infectious disease killer in 2023, surpassing COVID-19\n\nCOVID-19 has dethroned TB as the infectious disease causing most deaths worldwide recently, but a new report from WHO puts TB back on top.\n/g\n\n1 + 2 + 3\n\n[1] 6\n\n\nUPDATE: Please also see this post."
   },
   {
+    "objectID": "posts/radiograph/index.html",
+    "href": "posts/radiograph/index.html",
+    "title": "A 1963 radioautograph of an E. coli chromosome",
+    "section": "",
+    "text": "From Small Things Considered:\n\nWe continue our series of images that have made a difference in microbiology. This one, published by John Cairns in 1963 has earned a most deserved place in textbooks and re­views. It shows a radioautograph of an intact E. coli chromosome in the act of repli­cat­ing. From this image, Cairns concluded that the E. coli chromosome is: i) a single piece of double stranded DNA, 700−900 μm long, and ii) circular.\n\n/g\n\n\n\nCitationBibTeX citation:@online{2024,\n  author = {, gizn},\n  title = {A 1963 Radioautograph of an {E.} Coli Chromosome},\n  date = {2024-10-09},\n  url = {https://gizn.org/posts/here-goed-the-slug/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\ngizn. 2024. “A 1963 Radioautograph of an E. Coli\nChromosome.” October 9, 2024. https://gizn.org/posts/here-goed-the-slug/."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "gizn.org",
@@ -32,6 +39,6 @@
     "href": "posts.html",
     "title": "Blog",
     "section": "",
-    "text": "New post\n\n\n\nmicro\n\n\nstats\n\n\ncode\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\ngizn\n\n\nDec 18, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "New post\n\n\n\nmicro\n\n\nstats\n\n\ncode\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\ngizn\n\n\nDec 18, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA 1963 radioautograph of an E. coli chromosome\n\n\n\nmicro\n\n\nstats\n\n\ncode\n\n\n\n\n\n\n\ngizn\n\n\nOct 9, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

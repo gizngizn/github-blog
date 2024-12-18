@@ -1,0 +1,21 @@
+---
+title: "New post"
+description: "Det här kan väl likställas med en ingress."
+author:
+  - name: gizn
+    id: gizn
+    orcid: 0009-0001-6610-297X
+    email: gizn@georgnaver.se
+    affiliation: 
+      - name: gizn.org
+        url: https://gizn.org
+date: 2024-12-18
+categories:
+  - micro
+  - stats
+  - code
+citation: 
+  url: https://gizn.org/posts/here-goed-the-slug/ 
+image: https://schaechter.asmblog.org/.a/6a00d8341c5e1453ef02b7517f38da200b-800wi
+draft: true 
+---

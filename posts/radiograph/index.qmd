@@ -1,0 +1,29 @@
+---
+title: "A 1963 radioautograph of an E. coli chromosome"
+# description: "Det här kan väl likställas med en ingress."
+author:
+  - name: gizn
+    id: gizn
+    orcid: 0009-0001-6610-297X
+    email: gizn@georgnaver.se
+    affiliation: 
+      - name: gizn.org
+        url: https://gizn.org
+date: 2024-10-09
+categories:
+  - micro
+  - stats
+  - code
+citation: 
+  url: https://gizn.org/posts/here-goed-the-slug/ 
+image: https://schaechter.asmblog.org/.a/6a00d8341c5e1453ef02b7517f38da200b-800wi
+draft: false 
+---
+
+![](https://schaechter.asmblog.org/.a/6a00d8341c5e1453ef02b7517f38da200b-800wi)
+
+From [Small Things Considered](https://schaechter.asmblog.org/schaechter/2013/03/pictures-considered-the-e-coli-chromosome-caught-in-the-act-of-replicating.html):
+
+> We continue our series of images that have made a difference in microbiology. This one, published by John Cairns in 1963 has earned a most deserved place in textbooks and re­views. It shows a radioautograph of an intact E. coli chromosome in the act of repli­cat­ing. From this image, Cairns concluded that the E. coli chromosome is: i) a single piece of double stranded DNA, 700−900 μm long, and ii) circular.
+
+/g
