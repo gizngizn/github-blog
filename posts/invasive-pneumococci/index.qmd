@@ -1,0 +1,41 @@
+---
+title: "Invasive pneumococcal disease and vaccination in Sweden"
+description: "How the the evolving composition of pneumococcal conjugate vaccines is affecting the epidemiology in Sweden."
+author:
+  - name: gizn
+    id: gizn
+    orcid: 0009-0001-6610-297X
+    email: gizn@georgnaver.se
+    affiliation: 
+      - name: gizn.org
+        url: https://gizn.org
+date: 2024-10-11
+categories:
+  - micro
+#citation: 
+#  url: https://gizn.org/posts/here-goed-the-slug/ 
+#image: https://schaechter.asmblog.org/.a/6a00d8341c5e1453ef02b7517f38da200b-800wi
+draft: false 
+---
+
+Invasive pneumococcal disease is a life-threatening condition caused by Streptococcus pneumoniae. Not all S. pneumoniae strains are equally prone to cause severe disease, and therefore, vaccinations target the most pathogenic serotypes of the bacterium.
+
+From UpToDate:
+
+\> A single nasopharyngeal culture shows about 20 to 25 percent of children in the United States to be colonized; with repeated sampling, the prevalence rises to 30 to 40 percent and, in daycare settings, it exceeds 50 percent \[3\]. On any single occasion, about 5 to 10 percent of adults are colonized; these rates have not changed substantially since introduction of the conjugate polysaccharide pneumococcal vaccine
+
+Pneumococcal conjugate vaccines (PCV) consist of pneumococcal capsular polysaccharides conjugated to a protein. They are named with numbers indicating the number of pneumococcal capsule types included in the vaccine. For example, PCV20 provides protection against 20 serotypes.
+
+In Sweden, PCV7 was introduced into the national vaccination program for children in 2009. In 2010, some regions introduced PCV10, while others used PCV13. The following graph shows how the incidence of invasive pneumococcal disease fell across all age groups.
+
+![](image-1.webp)
+
+In 2019, public procurement made PCV10 the standard for all regions, and as shown above, the incidence rose substantially after that.
+
+While some of this rise might be explained by a post-COVID increase in airway pathogens, data shows that most invasive cases are caused by serotypes not included in PCV13 or PCV15, as indicated by the purple section in the graph below.
+
+![](image-2.webp)
+
+Since September 2023, all Swedish children are offered PCV15. It will be interesting to see how this affects the incidence in the coming year.
+
+/g

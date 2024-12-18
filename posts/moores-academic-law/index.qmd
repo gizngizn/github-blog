@@ -1,0 +1,29 @@
+---
+title: "Moore's Law of Academic Journals"
+description: "The number of scholarly journals Has approximately doubled every 20 years."
+author:
+  - name: gizn
+    id: gizn
+    orcid: 0009-0001-6610-297X
+    email: gizn@georgnaver.se
+    affiliation: 
+      - name: gizn.org
+        url: https://gizn.org
+date: 2024-10-22 22:26
+categories:
+  - stats
+#citation: 
+#  url: https://gizn.org/posts/here-goed-the-slug/ 
+image: img1.webp
+draft: false 
+---
+
+The number of scholarly journals Has approximately doubled every 20 years. From [this article](https://pmc.ncbi.nlm.nih.gov/articles/PMC10024814/):
+
+![](img1.webp)
+
+> Increased number of scholarly journals from their birth (1665). The predicted number of journals was calculated based on the assumption that the number of journals is doubled about every 20 years.
+
+The graph starts with [Journal des savants](https://en.wikipedia.org/wiki/Journal_des_s%C3%A7avans) in 1665.
+
+/g
