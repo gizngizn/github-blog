@@ -2,7 +2,6 @@
   {
     "listing": "/blog.html",
     "items": [
-      "/posts/2024-12-18-test-post/index.html",
       "/posts/moores-academic-law/index.html",
       "/posts/invasive-pneumococci/index.html",
       "/posts/radiograph/index.html"
@@ -11,7 +10,6 @@
   {
     "listing": "/posts.html",
     "items": [
-      "/posts/2024-12-18-test-post/index.html",
       "/posts/moores-academic-law/index.html",
       "/posts/invasive-pneumococci/index.html",
       "/posts/radiograph/index.html"
