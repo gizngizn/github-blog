@@ -3,12 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "gizn"
+  title: "gizn.org"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - posts.qmd
 
 format:
   html:

@@ -1,0 +1,32 @@
+---
+title: "New post"
+description: "blog post description (appears underneath the title in smaller text) which is included on the listing page"
+author:
+  - name: gizn
+    url: https://gizn.org
+date: 2024-12-18
+categories:
+  - micro
+  - stats
+  - code
+#citation: 
+#  url: https://samanthacsik.github.io/posts/2022-10-24-my-blog-post/ 
+#image: preview-image.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+From [WHO](https://www.who.int/news/item/29-10-2024-tuberculosis-resurges-as-top-infectious-disease-killer):
+
+> The World Health Organization (WHO) today published a new report on tuberculosis revealing that approximately 8.2 million people were newly diagnosed with TB in 2023 – the highest number recorded since WHO began global TB monitoring in 1995. This represents a notable increase from 7.5 million reported in 2022, placing TB again as the leading infectious disease killer in 2023, surpassing COVID-19
+
+COVID-19 has dethroned TB as the infectious disease causing most deaths worldwide recently, but a new report from WHO puts TB back on top.
+
+/g
+
+```{r}
+
+1 + 2 + 3
+
+```
+
+**UPDATE:** Please also see [this post.](https://gizn.org/update-on-covid-19-no-longer-the-leading-cause-of-death-from-infectious-diseases/)

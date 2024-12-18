@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "My Blog",
+    "section": "",
+    "text": "New post\n\n\n\nmicro\n\n\nstats\n\n\ncode\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\ngizn\n\n\nDec 18, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -7,10 +14,24 @@
     "text": "From WHO:\n\nThe World Health Organization (WHO) today published a new report on tuberculosis revealing that approximately 8.2 million people were newly diagnosed with TB in 2023 – the highest number recorded since WHO began global TB monitoring in 1995. This represents a notable increase from 7.5 million reported in 2022, placing TB again as the leading infectious disease killer in 2023, surpassing COVID-19\n\nCOVID-19 has dethroned TB as the infectious disease causing most deaths worldwide recently, but a new report from WHO puts TB back on top.\n/g\n\n1 + 2 + 3\n\n[1] 6\n\n\nUPDATE: Please also see this post."
   },
   {
+    "objectID": "posts/2024-12-18-test-post/index.html",
+    "href": "posts/2024-12-18-test-post/index.html",
+    "title": "New post",
+    "section": "",
+    "text": "From WHO:\n\nThe World Health Organization (WHO) today published a new report on tuberculosis revealing that approximately 8.2 million people were newly diagnosed with TB in 2023 – the highest number recorded since WHO began global TB monitoring in 1995. This represents a notable increase from 7.5 million reported in 2022, placing TB again as the leading infectious disease killer in 2023, surpassing COVID-19\n\nCOVID-19 has dethroned TB as the infectious disease causing most deaths worldwide recently, but a new report from WHO puts TB back on top.\n/g\n\n1 + 2 + 3\n\n[1] 6\n\n\nUPDATE: Please also see this post."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "gizn",
+    "title": "gizn.org",
     "section": "",
     "text": "Tout ce qui est vrai pour le Colibacille est vrai pour l’éléphant*"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Blog",
+    "section": "",
+    "text": "New post\n\n\n\nmicro\n\n\nstats\n\n\ncode\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\ngizn\n\n\nDec 18, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
