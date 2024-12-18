@@ -1,9 +1,7 @@
 ---
-title: "github-blog"
+title: "gizn"
 ---
 
-This is a Quarto website.
+![E. Coli and elephants](https://webext.pasteur.fr/archives/mon/im/eleph.jpg)
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-sdfsdf
+> Tout ce qui est vrai pour le Colibacille est vrai pour l'éléphant[*](https://webext.pasteur.fr/archives/mon/im_ele.html)
