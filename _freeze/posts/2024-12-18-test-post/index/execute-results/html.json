@@ -1,0 +1,15 @@
+{
+  "hash": "9f06ab1e2db4cd2a22f464b52509c4b7",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"New post\"\ndescription: \"blog post description (appears underneath the title in smaller text) which is included on the listing page\"\nauthor:\n  - name: gizn\n    url: https://gizn.org\ndate: 2024-12-18\ncategories:\n  - micro\n  - stats\n  - code\n#citation: \n#  url: https://samanthacsik.github.io/posts/2022-10-24-my-blog-post/ \n#image: preview-image.png\ndraft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!\n---\n\n\n\nFrom [WHO](https://www.who.int/news/item/29-10-2024-tuberculosis-resurges-as-top-infectious-disease-killer):\n\n> The World Health Organization (WHO) today published a new report on tuberculosis revealing that approximately 8.2 million people were newly diagnosed with TB in 2023 – the highest number recorded since WHO began global TB monitoring in 1995. This represents a notable increase from 7.5 million reported in 2022, placing TB again as the leading infectious disease killer in 2023, surpassing COVID-19\n\nCOVID-19 has dethroned TB as the infectious disease causing most deaths worldwide recently, but a new report from WHO puts TB back on top.\n\n/g\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 2 + 3\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 6\n```\n\n\n:::\n:::\n\n\n\n**UPDATE:** Please also see [this post.](https://gizn.org/update-on-covid-19-no-longer-the-leading-cause-of-death-from-infectious-diseases/)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
