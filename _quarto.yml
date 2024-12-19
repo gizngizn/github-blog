@@ -6,16 +6,22 @@ website:
   title: "gizn.org"
   navbar:
     search: true
+    tools:
+      - icon: github
+        href: https://github.com/gizngizn
+      - icon: twitter
+        menu:
+          - text: Bluesky
+            href: https://bsky.app/profile/gizn.bsky.social
+          - text: X
+            href: https://x.com/giznse
+
     left:
       - href: index.qmd
         text: Home
       - href: about.qmd
         text: About
       - posts.qmd
-    right: 
-      tools:
-      - icon: github
-        href: https://github.com/gizngizn
 
 format:
   html:
