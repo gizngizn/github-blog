@@ -5,12 +5,17 @@ project:
 website:
   title: "gizn.org"
   navbar:
+    search: true
     left:
       - href: index.qmd
         text: Home
       - href: about.qmd
         text: About
       - posts.qmd
+    right: 
+      tools:
+      - icon: github
+        href: https://github.com/gizngizn
 
 format:
   html:
