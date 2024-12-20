@@ -1,11 +1,11 @@
 /*-- scss:defaults --*/
 // Base document colors
-$body-bg: #F7F6F4;
-$body-color: #494A49;
-$link-color: #494A49;
+$body-bg: #F2F0E2;
+$body-color: #1F1F1F;
+$link-color: #1F1F1F;
 
-$navbar-bg: #E5E5E5;
-$navbar-fg: #4A4A4A;
+$navbar-bg: #1F1F1F;
+$navbar-fg: #F2F0E2;
 
 $code-block-bg: #E5E5E5;
 $code-block-border-left: #F6C844;
@@ -13,7 +13,7 @@ $btn-code-copy-color: #F6C844;
 
 .blockquote {
     border-left: 2px solid;
-    border-left-color: #848584;
+    border-left-color: #1F1F1F;
 }
 
 .content a {
